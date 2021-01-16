@@ -50,12 +50,24 @@
 	//	"tab.activeBackground":"#252e2ba8",
 		// цвет надписи закладок
 		"tab.activeForeground":"#e9cd92",
-		"tab.activeBackground":"#202020",
+		//"tab.activeBackground":"#202020",
 		// цвет нективных закладок
 		"tab.inactiveBackground":"#202020",
 		// подчеркивание закладки
-		"tab.activeBorder":"#80755f",
+		"tab.activeBorder":"#524d40b4",
 
+
+		"editorGroupHeader.tabsBackground": "#202020",
+		"tab.border": "#292828",
+		//"tab.activeBorder": "#928374",
+		//"tab.inactiveBackground": "#292828",
+		"tab.hoverBackground": "#202020",
+		"tab.activeBackground": "#202020",
+		//"tab.activeForeground": "#d4be98",
+		"tab.inactiveForeground": "#928374",
+		"tab.unfocusedActiveForeground": "#d4be98",
+		"tab.unfocusedActiveBorder": "#29282800",
+		"tab.unfocusedInactiveForeground": "#928374",
 		// скролла:
 		"scrollbar.shadow":"#29271f85",
 		"scrollbarSlider.activeBackground":"#77635360",	
