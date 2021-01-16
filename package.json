@@ -1,0 +1,21 @@
+{
+    "name": "nord-elwood",
+    "displayName": "Nord elWood",
+    "description": "Golang dark minimalistic theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nord-elwood",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-elwood-color-theme.json"
+            }
+        ]
+    }
+}
