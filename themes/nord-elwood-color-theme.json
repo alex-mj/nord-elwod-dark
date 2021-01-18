@@ -12,7 +12,7 @@
 		"focusBorder": "#414237",
 
 
-		"editor.background": "#202020",
+		"editor.background": "#232423",
 		"editor.foreground": "#e1eee5",
 
 		// номера строк
@@ -24,12 +24,12 @@
 		"editor.lineHighlightBorder": "#1a180960",
 
 		//"editorCodeLens.foreground": "#46412c",
-		"editorCodeLens.foreground": "#202020",		
-		"activityBar.background": "#202020",
+		"editorCodeLens.foreground": "#232423",		
+		"activityBar.background": "#232423",
 		"activityBar.inactiveForeground": "#8f835b7c",
 		"activityBar.foreground": "#d8d1a7a4",
 		
-		"activityBar.border": "#202020",
+		"activityBar.border": "#232423",
 		"activityBarBadge.background": "#113b2b",
 		"activityBarBadge.foreground": "#bec2ae2d",
 		
@@ -38,7 +38,7 @@
 
 		// что то сверху?
 		//"editorGroup.border": "#d8d1a7bb",
-		"editorGroup.border": "#202020",
+		"editorGroup.border": "#232423",
 		//"editorGroup.dropBackground": "#2a6aff99",
 		//"editorGroupHeader.noTabsBackground": "#0dffae",
 		//текущая вкладка назвние текущего файла
@@ -50,19 +50,19 @@
 	//	"tab.activeBackground":"#252e2ba8",
 		// цвет надписи закладок
 		"tab.activeForeground":"#e9cd92",
-		//"tab.activeBackground":"#202020",
+		//"tab.activeBackground":"#232423",
 		// цвет нективных закладок
-		"tab.inactiveBackground":"#202020",
+		"tab.inactiveBackground":"#232423",
 		// подчеркивание закладки
 		"tab.activeBorder":"#524d40b4",
 
 
-		"editorGroupHeader.tabsBackground": "#202020",
+		"editorGroupHeader.tabsBackground": "#232423",
 		"tab.border": "#292828",
 		//"tab.activeBorder": "#928374",
 		//"tab.inactiveBackground": "#292828",
-		"tab.hoverBackground": "#202020",
-		"tab.activeBackground": "#202020",
+		"tab.hoverBackground": "#232423",
+		"tab.activeBackground": "#232423",
 		//"tab.activeForeground": "#d4be98",
 		"tab.inactiveForeground": "#928374",
 		"tab.unfocusedActiveForeground": "#d4be98",
@@ -106,10 +106,10 @@
 		// скобки
 		//"editorBracketMatch.background": "#8f472abe",
 		"editorBracketMatch.background": "#a77a00",
-		"editorBracketMatch.border": "#202020",//2127252d
+		"editorBracketMatch.border": "#232423",//2127252d
 
 		//желоб с номерами строк
-		"editorGutter.background": "#202020",
+		"editorGutter.background": "#232423",
 		"editorGutter.modifiedBackground": "#837861",
 		"editorGutter.addedBackground": "#4f5a45",
 		"editorGutter.deletedBackground": "#663a32",
@@ -160,14 +160,14 @@
 		// нижняя полоска
 		"statusBar.background": "#222322",
 		"statusBar.foreground": "#d8d1a7a4",
-		"statusBar.border": "#202020",
+		"statusBar.border": "#232423",
 		"statusBar.debuggingBackground": "#a5a05bb6",
 		"statusBar.debuggingForeground": "#a5a05bb6",
 		"statusBar.debuggingBorder": "#1213124f",
 		"statusBar.noFolderForeground": "#d8d1a7e5",
 		"statusBar.noFolderBorder": "#3f463f4f",
 
-		"statusBarItem.activeBackground": "#202020",
+		"statusBarItem.activeBackground": "#232423",
 		"statusBarItem.hoverBackground": "#d8d1a7a4",
 
 		"statusBarItem.prominentForeground": "#a5a05bb6",
@@ -190,7 +190,7 @@
 */
 		//
 		"titleBar.activeForeground": "#c0b9946e",
-		"titleBar.activeBackground": "#202020",
+		"titleBar.activeBackground": "#232423",
 		"menubar.selectionForeground": "#d8d1a7d3",
 		"menubar.selectionBackground": "#353432c4",
 	/*	titleBar.activeBackground: Title Bar background when the window is active.
@@ -199,7 +199,7 @@
 		titleBar.inactiveForeground: Title Bar foreground when the window is inactive.
 		titleBar.border: Title bar border color.*/
 
-		"sideBar.background": "#202020",
+		"sideBar.background": "#232423",
 		"sideBar.foreground": "#a19f77b6",
 	//	"sideBar.border": "#2127252d",
 		"sideBarTitle.foreground": "#a5a05bb6",
@@ -210,13 +210,13 @@
 		
 		
 		//"breadcrumb.background": "#2127252d",
-		"breadcrumb.background": "#202020",
+		"breadcrumb.background": "#232423",
 		"breadcrumb.foreground": "#97968065",		
 		"menu.background": "#353535",
 		"menu.foreground": "#635f49d3",
 		"terminal.selectionBackground": "#add6ff26",
 		"terminalCursor.foreground": "#808080",
-		"terminal.background": "#202020",
+		"terminal.background": "#232423",
 		"terminal.foreground": "#d4d4d4",
 		"terminal.ansiBlack": "#1e1e1e",
 		"terminal.ansiBrightBlack": "#808080",
