@@ -110,8 +110,8 @@
 
 		//желоб с номерами строк
 		"editorGutter.background": "#202020",
-		"editorGutter.modifiedBackground": "#a78136",
-		"editorGutter.addedBackground": "#618a3e",
+		"editorGutter.modifiedBackground": "#837861",
+		"editorGutter.addedBackground": "#4f5a45",
 		"editorGutter.deletedBackground": "#663a32",
 		// цвет ссылки (за секунду до клика)))
 		"editorLink.activeForeground": "#25d0ff",
