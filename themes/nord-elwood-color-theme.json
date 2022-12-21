@@ -105,10 +105,10 @@
 		
 		// скобки
 		//"editorBracketMatch.background": "#8f472abe",
-		"editorBracketMatch.background": "#a77a00",
+		"editorBracketMatch.background": "#3b3b3a", //413212
 		"editorBracketMatch.border": "#232423",//2127252d
 
-		//желоб с номерами строк
+		//желоб с номерами строк 
 		"editorGutter.background": "#232423",
 		"editorGutter.modifiedBackground": "#837861",
 		"editorGutter.addedBackground": "#4f5a45",
@@ -117,7 +117,7 @@
 		"editorLink.activeForeground": "#25d0ff",
 		
 		"editorMarkerNavigation.background": "#5e81acc0",
-		"editorMarkerNavigationError.background": "#e95f5fcc",
+		"editorMarkerNavigationError.background": "#e95f40",
 		"editorMarkerNavigationWarning.background": "#eba18bce",
 		
 		//"editorHint.border": "#ebcb8b00",
@@ -220,8 +220,8 @@
 		"terminal.foreground": "#d4d4d4",
 		"terminal.ansiBlack": "#1e1e1e",
 		"terminal.ansiBrightBlack": "#808080",
-		"terminal.ansiRed": "#d16969",
-		"terminal.ansiBrightRed": "#d16969",
+		"terminal.ansiRed": "#f09070",
+		"terminal.ansiBrightRed": "#ff6250",
 		"terminal.ansiBlue": "#569cd6",
 		"terminal.ansiBrightBlue": "#9cdcfe",
 		"terminal.ansiGreen": "#608b4e",
@@ -246,7 +246,7 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#bedda27e"
-			}
+			} 
 		},
 		{
 			"name": "Variables",
@@ -255,7 +255,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#e4dc92dc"
+				"foreground": "#c8ce9e" //"#e4dc92f0" //#e4dc92dc 
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#6bd5dd"
+				"foreground": "#75e5d4" //"#6bd5dd"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 				
 			],
 			"settings": {
-				"foreground": "#d1a768f6"
+				"foreground": "#d9b768b6"//d1a768f6
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f1b979"
+				"foreground": "#ecb67c" //#f1b779
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				"constant.numeric",
+				
 				"constant.language",
 				"support.constant",
 				"constant.character",
@@ -366,13 +366,14 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#9bdfff"
+				"foreground": "#c1ecff" //#9bdfff
 			}
 		},
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
+				"constant.numeric",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -381,7 +382,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#cff1bce5"
+				"foreground": "#fffed7ea" //#cff1bce5 #fffed7
 			}
 		},
 		{
@@ -397,7 +398,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ebca94d5"
 			}
 		},
 		{
@@ -535,7 +536,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#89DDFF" ///89DDFF
 			}
 		},
 		{
