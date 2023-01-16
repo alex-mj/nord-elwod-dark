@@ -117,8 +117,10 @@
 		"editorLink.activeForeground": "#25d0ff",
 		
 		"editorMarkerNavigation.background": "#5e81acc0",
-		"editorMarkerNavigationError.background": "#e95f40",
+		"editorMarkerNavigationError.background": "#d68649",
 		"editorMarkerNavigationWarning.background": "#eba18bce",
+		"list.errorForeground": "#b97557",
+		"list.warningForeground": "#fdc407db",
 		
 		//"editorHint.border": "#ebcb8b00",
 		//"editorHint.foreground": "#ebcb8b",
@@ -220,8 +222,8 @@
 		"terminal.foreground": "#d4d4d4",
 		"terminal.ansiBlack": "#1e1e1e",
 		"terminal.ansiBrightBlack": "#808080",
-		"terminal.ansiRed": "#f09070",
-		"terminal.ansiBrightRed": "#ff6250",
+		"terminal.ansiRed": "#dc934e",//#f09070
+		"terminal.ansiBrightRed": "#f18d40",
 		"terminal.ansiBlue": "#569cd6",
 		"terminal.ansiBrightBlue": "#9cdcfe",
 		"terminal.ansiGreen": "#608b4e",
@@ -289,7 +291,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#75e5d4" //"#6bd5dd"
+				"foreground": "#a5ffc18f" //#75e5d4 #6bd5dd"
 			}
 		},
 		{
@@ -398,7 +400,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ebca94d5"
+				"foreground": "#ebca94b8" //#ebca94d5
 			}
 		},
 		{
@@ -536,7 +538,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF" ///89DDFF
+				"foreground": "#89DDFF" ///#89DDFF
 			}
 		},
 		{
